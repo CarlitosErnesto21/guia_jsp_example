@@ -1,1 +1,21 @@
+# Para realizar las pruebas en POSTMAN, se debe realizar lo siguiente:
 
+## 1. Definir la ruta para realizar los distintos métodos:
+
+**Ruta predeterminada:**
+
+```
+localhost:8080/api/nombre_endpoint
+```
+
+**Ruta hacia categorias:**
+
+```
+localhost:8080/api/categorias
+```
+
+**Ruta hacia menus:**
+
+```
+localhost:8080/api/menus
+```
