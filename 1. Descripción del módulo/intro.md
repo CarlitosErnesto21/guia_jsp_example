@@ -10,4 +10,4 @@ Cada clase tiene una instancia y lo que representa un objeto único.
 
 **•	Integer.parseInt():** es para convertir una línea de código o lo que se recibe como a un carácter legible y intero.
 
-**•	Double.parseDouble():** similar 
+**•	Double.parseDouble():** similar a Integer.parseInt(); con la diferencia que este es para decimales.
