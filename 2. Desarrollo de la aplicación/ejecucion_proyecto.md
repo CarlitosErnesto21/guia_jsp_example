@@ -1,0 +1,27 @@
+# Para la ejecución del proyecto desde cualquier archivo del repositorio, se debe hacer lo siguiente.
+
+## 1. Ubicarse en el menú hamburguesa:
+
+<img width="406" height="49" alt="image" src="https://github.com/user-attachments/assets/6e0c4ebf-108a-43e0-b7b5-b13c8b531ddc" />
+
+## 2. Dirigirse a la opción Run y elegir la opción "Edit Configurations":
+
+<img width="470" height="640" alt="image" src="https://github.com/user-attachments/assets/579308b5-4864-4a60-87f4-a77ac8fe3b42" />
+
+## 3. Dar clic en + y elegir la opción "Maven":
+
+<img width="997" height="766" alt="image" src="https://github.com/user-attachments/assets/3e8aafc1-c99e-4276-8c8b-4931ba73e0d3" />
+
+## 4. Configurar el archivo con:
+
+```
+spring-boot:run
+```
+
+<img width="996" height="465" alt="image" src="https://github.com/user-attachments/assets/16c2756a-a0cb-4768-8752-2f97719d87f2" />
+
+## 5. Dar clic en "Apply" y en "Ok":
+
+<img width="523" height="135" alt="image" src="https://github.com/user-attachments/assets/feaf2ae7-e4c3-4f7e-93af-bce7b26b717c" />
+
+# De esta forma la ejecución del proyecto estará disponible independientemente en el archivo donde nos encontremos.
