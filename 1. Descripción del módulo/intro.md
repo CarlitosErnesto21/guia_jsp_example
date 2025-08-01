@@ -7,5 +7,7 @@ Cada clase tiene una instancia y lo que representa un objeto único.
 
 ### - Palabras:
 **•	Bufferedreader:** para capturar datos a través del teclado como Scanner.
+
 **•	Integer.parseInt():** es para convertir una línea de código o lo que se recibe como a un carácter legible y intero.
+
 **•	Double.parseDouble():** similar 
