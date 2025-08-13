@@ -9,3 +9,13 @@ Se hizo el cambio en el campo **Estado**:
 @Enumerated(EnumType.STRING)
 private EstadoOrden estado;
 ```
+
+## En el campo "Estado" de la entidad Orden.java:
+
+Se hizo el cambio en el campo **Estado**:
+
+```
+@Column(name = "estado", nullable = false, length = 20)
+    @Enumerated(EnumType.STRING)
+    private EstadoOrden estado;
+```
